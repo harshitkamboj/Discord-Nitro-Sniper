@@ -1,2 +1,9 @@
 # Discord-Nitro-Sniper
-A nitro sniper detects nitro gift links sent in messages and tries to claim those gifts into your account as fast as possible.
+it will be released till 31 December 2025, by that time check my other projects in my profile also if wanna contact me check my discord link at bottom. 
+
+it is 100% sniper written in golang and you will be provided full documentation that how you can run script.
+
+all you need is discord tokens, 2 linux vps or 1 linux and 1 windows vps and little brain to understand how things work.
+so see you on 21 December 2025 till that follow and star the project ⭐. if you star i will add more features.
+
+discord: https://harshitkamboj.in
