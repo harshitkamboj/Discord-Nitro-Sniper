@@ -1,4 +1,6 @@
 # Discord-Nitro-Sniper
+delayed to 2 jan 2026 due to bug fixing 
+
 it will be released till 31 December 2025, by that time check my other projects in my profile also if wanna contact me check my discord link at bottom. 
 
 it is 100% sniper written in golang and you will be provided full documentation that how you can run script.
