@@ -2,12 +2,14 @@
 ETA 10 January 2026 due to bug fixing 
 
 # PROGRESS
-PREPARING DOCUMENTATION
-FIXING BUGS
-MAKING SNIPER MORE FASTER
-REMOVING NON NEEDED THINGS 
-ARRANGING $5-10 FOR Key login system in sniper. (U can donate if wanted, per month tho, so thinking to make my own system.)
-and few more things
+- Preparing documentation
+- Fixing bugs
+- Making Sniper more faster
+- Removing non needed things
+- Arranging $5–10 for key login system in Sniper. (You can donate if wanted, per month though, so thinking to make my own system.)
+- And few more things
+
+## NOTE
 
 it will be released till 10 January 2026, by that time check my other projects in my profile also if wanna contact me check my discord link at bottom. 
 
